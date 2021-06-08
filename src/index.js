@@ -1,1 +1,2 @@
-const react = require("react");
+const React = require("react");
+const ReactDom = require("react-dom");
